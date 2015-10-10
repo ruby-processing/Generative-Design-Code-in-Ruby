@@ -9,16 +9,17 @@ This github repository is the place to house the book examples translated for JR
 
 ### Authors (original)
 
-Hartmut Bohnacker
-Benedikt Groß
-Julia Laub
-Claudius Lazzeroni, editor
+- Hartmut Bohnacker
+- Benedikt Groß
+- Julia Laub
+- Claudius Lazzeroni, editor
 
-### Authors (ruby translation)
+### Authors (ruby translation) 
+fork this repo, and add your contribution to get added to this list
 
-Martin Prout
+- Martin Prout
 
 
-All of the book's source code is licensed under the [Apache License Version 2.0}[license]
+All of the book's source code is licensed under the [Apache License Version 2.0][license]
 [license]:http://www.apache.org/licenses/LICENSE-2.0
 [book]:http://www.generative-gestaltung.de/
